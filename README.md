@@ -1,3 +1,11 @@
+https://vip.sipaero.ru 
+https://rpm.vip-zal.ru
+https://prm.sipaero.ru
+https://new.sipaero.ru
+https://new.sipaero.ru
+https://it.rov.aero
+https://rov.aero
+https://rov.aero
 tcp://193.233.15.35:80
 tcp://193.233.15.35:443
 tcp://78.155.197.134:443
@@ -15,11 +23,3 @@ tcp://213.189.217.114:443
 tcp://92.242.39.73:80
 tcp://92.242.39.73:443
 tcp://92.242.39.73:8083
-https://vip.sipaero.ru 
-https://rpm.vip-zal.ru
-https://prm.sipaero.ru
-https://new.sipaero.ru
-https://new.sipaero.ru
-https://it.rov.aero
-https://rov.aero
-https://rov.aero
